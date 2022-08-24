@@ -1,0 +1,15 @@
+h3 {
+  font-family: Verdana;
+}
+
+table {
+  width: 200px;  
+}
+
+td {
+  vertical-align: top;
+}
+
+.mat-row {
+  height: auto;
+}
